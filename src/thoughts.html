@@ -1,0 +1,15 @@
+---
+layout: mvp
+title: Thoughts
+---
+
+<section>
+    {% for thought in site.thoughts %}
+        <aside>
+            <a href="{{ thought.url }}">
+            <h3 style="font-size: 1.15vw;">{{ thought.title }}</h3>
+            <p>{{ thought.date }}</p>
+            </a>
+        </aside>
+    {% endfor %}
+</section>

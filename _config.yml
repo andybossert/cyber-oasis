@@ -1,0 +1,16 @@
+title: Cyber Oasis
+
+source              : ./src
+destination         : ./_build
+layouts_dir         : layouts
+data_dir            : data
+includes_dir        : includes
+
+sass:
+    sass_dir: assets/sass
+
+collections:
+    food:
+        output: true
+    thoughts:
+        output: true

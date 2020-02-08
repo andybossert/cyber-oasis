@@ -1,0 +1,8 @@
+- name: Links
+  link: /links.html
+
+- name: Food
+  link: /food.html
+
+- name: Thoughts
+  link: /thoughts.html
