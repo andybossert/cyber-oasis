@@ -25,7 +25,7 @@ title: Fish Tacos
 
 4. Bake fish for about 20 minutes. Flip halfway and re-season.
 
-5. While the fish bakes put together a [Mango Salsa]({% link _food/mango-salsa.md %}) and [Cilantro Lime Crema]({% link _food/cilantro-lime-crema.md %})
+5. While the fish bakes put together a *Mango Salsa* and *Cilantro Lime Crema*
 
 6. When fish is done pile Fish, Cheese, Salsa, Cilantro Lime Crema, Cabbage onto Tortillas.
 

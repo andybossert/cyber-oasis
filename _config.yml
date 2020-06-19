@@ -1,14 +1,11 @@
 title: Cyber Oasis
 
-source              : ./src
-destination         : ./_build
-layouts_dir         : layouts
-data_dir            : data
-includes_dir        : includes
+exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "readme.md", ".gitignore"]
 
 sass:
     sass_dir: assets/sass
 
+collections_dir: collections
 collections:
     food:
         output: true
