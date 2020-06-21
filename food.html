@@ -8,14 +8,14 @@ title: Food
         <aside>
             
             {% if recipe.pic %}
-                <img alt="HTML only" src="/assets/images/food/{{ recipe.pic }}" height="150">
+                <img alt="HTML only" src="{{ site.baseurl }}/assets/images/food/{{ recipe.pic }}" height="150">
             {% else %}
-                <img alt="HTML only" src="/assets/images/food/food-outline.png" height="150">
+                <img alt="HTML only" src="{{ site.baseurl }}/assets/images/food/food-outline.png" height="150">
             {% endif %}
 
             <h3 style="font-size: 1.15vw;">{{ recipe.title }}</h3>
             <p>
-                <a href="{{ recipe.url }}"><em>View Recipe&nearr;</em></a>
+                <a href="{{ site.baseurl }}{{ recipe.url }}"><em>View Recipe&nearr;</em></a>
             </p>
         </aside>
     {% endfor %}

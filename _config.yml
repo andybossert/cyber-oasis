@@ -1,4 +1,5 @@
 title: Cyber Oasis
+baseurl: /cyber-oasis
 
 exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", "readme.md", ".gitignore"]
 
