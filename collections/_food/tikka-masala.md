@@ -42,7 +42,7 @@ Calories - 328
 Fat - 23.4g
 Sodium - 980mg 
 Carbs - 13.2g
-Protein - 17.9
+Protein - 17.9g
 
 ## Thoughts
 
