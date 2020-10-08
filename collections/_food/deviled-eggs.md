@@ -1,7 +1,7 @@
 ---
 layout: mvp
 title: Deviled Eggs
-pic: deviled-eggs.jpg
+pic: deviled-eggs.png
 ---
 
 ## Ingredients

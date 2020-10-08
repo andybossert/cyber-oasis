@@ -1,6 +1,6 @@
 ---
 layout: mvp
-title: Lighter General Tso's Chicken
+title: General Tso's Chicken
 pic: general-tso.jpg
 credit: https://damndelicious.net/2014/05/23/lighter-general-tsos-chicken/
 ---

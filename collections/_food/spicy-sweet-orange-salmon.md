@@ -1,6 +1,6 @@
 ---
 layout: mvp
-title: Sweet and Spicy Orange Salmon
+title: Spicy Sweet Orange Salmon
 pic: sweet-and-spicy-orange-salmon.jpg
 credit: https://ohsweetbasil.com/sweet-and-spicy-orange-salmon-recipe/
 ---

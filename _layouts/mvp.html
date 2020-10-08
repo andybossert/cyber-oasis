@@ -3,8 +3,12 @@
     <head>
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/mvp.css">
         <style>
-            code { white-space: pre;}
             table { margin: auto;}
+            pre code {
+                display: inline-block;
+                padding: 30px;
+                white-space: pre;
+            }
         </style>
     </head>
     <body>
@@ -20,6 +24,10 @@
             <h1>{{ page.title }}</h1>
         </header>
         <main>
+            {% if page.pic %}
+                <img src="{{ site.baseurl }}/assets/images/food/{{ page.pic }}" height="425px" style="float:right;padding:30px">
+            {% endif %}
+
             {{ content }}
 
             {% if page.credit %}

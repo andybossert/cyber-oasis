@@ -1,6 +1,7 @@
 ---
 layout: mvp
 title: Homemade Pizza
+pic: homemade-pizza.png
 ---
 
 ## Ingredients
