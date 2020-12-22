@@ -1,6 +1,7 @@
 ---
 layout: mvp
 title: Fish Tacos
+pic: fish-tacos.jpg
 ---
 
 ## Ingredients

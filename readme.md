@@ -1,3 +1,11 @@
+## Testing
+
+Start the local server with:
+
+```
+bundle exec jekyll serve --baseurl ''
+```
+
 ## Notes
 
 - All path configurations apear to be relative to the source path

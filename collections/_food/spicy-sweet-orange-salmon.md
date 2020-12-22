@@ -3,6 +3,10 @@ layout: mvp
 title: Spicy Sweet Orange Salmon
 pic: sweet-and-spicy-orange-salmon.jpg
 credit: https://ohsweetbasil.com/sweet-and-spicy-orange-salmon-recipe/
+cals: 334
+fat: 12g
+carbs: 23g
+protein: 35g
 ---
 
 ## Ingredients
@@ -41,12 +45,7 @@ credit: https://ohsweetbasil.com/sweet-and-spicy-orange-salmon-recipe/
 
 ## Nutrient Facts
 
-Calories - 334
-Fat - 12g
-Saturated Fat - 1.7g
-Carbs - 23g
-Protein - 35g
-Sodium - 761mg
+{% include card.html %}
 
 ## Thoughts
 
