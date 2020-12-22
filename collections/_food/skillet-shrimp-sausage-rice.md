@@ -1,6 +1,6 @@
 ---
 layout: mvp
-title: Skillet Shrip Sausage and Rice
+title: Skillet Shrimp Sausage and Rice
 credit: https://www.delish.com/cooking/recipe-ideas/recipes/a36443/skillet-shrimp-sausage-rice-recipe-wdy0315/
 pic: skillet-shrimp-sausage-rice.jpg
 cals: 453
