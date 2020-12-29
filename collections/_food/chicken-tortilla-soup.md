@@ -1,6 +1,7 @@
 ---
 layout: mvp
 title: Chicken Tortilla Soup
+pic: chicken-tortilla-soup.png
 ---
 
 ## Ingredients
